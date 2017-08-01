@@ -5,8 +5,7 @@ Template para cadastramento de perfis dos Pupilos(as).
 
 # Mentor(a) responsável por mim
 
-Felipe Fialho(../../mentors/profiles/felipe_fialho.md)
-
+Felipe Fialho
 ## Meu Nome
 
 Jéfferson Desouza
